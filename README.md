@@ -4,4 +4,4 @@ My Project does a 3D ocean. The ocean alway change its wave and style, and there
 When people use mouse, the ocean will change its angle of visual.
 When people use "f" keyboard, it will become full screen.
 
-![This is screen shot of my project]()
+![This is screen shot of my project](https://github.com/Leo3600Liu/HW_Simple3D_Leo/blob/master/assets/simple-3D.png)
